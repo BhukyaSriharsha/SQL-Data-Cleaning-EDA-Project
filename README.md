@@ -103,6 +103,6 @@ Bhukya Sriharsha
 📧 Email: sriharshabhukya@gmail.com
 
 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/bhukya-sriharsha-a70362255/)
-💻 GitHub: github.com/SriharshaBhukya
+💻 GitHub: [github](https://github.com/BhukyaSriharsha)
 
 🚀 This project demonstrates SQL data cleaning, analytics, and insights generation — a must-have skill for data analyst roles.
